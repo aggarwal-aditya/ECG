@@ -1,1 +1,1 @@
-# IIITA
+# ECG
